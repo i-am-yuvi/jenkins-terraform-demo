@@ -2,7 +2,7 @@
 
 This repository contains all the necessary code and configurations to set up a Jenkins CI/CD server on Digital Ocean using Terraform.
 
-For a detailed explanation of the entire process, please visit [yuvichh.hashnode.com](https://yuvichh.hashnode.com/).
+For a detailed explanation of the entire process, please visit my [Blog]([https://yuvichh.hashnode.com/](https://yuvichh.hashnode.dev/deploy-jenkins-server-on-digital-ocean-using-terraform)).
 
 \## Prerequisites
 
